@@ -1,0 +1,4 @@
+Matematika Lanjut
+Ini adalah isi file dari EL5000.txt
+-----------------------------------
+Teorema Bayes keles...

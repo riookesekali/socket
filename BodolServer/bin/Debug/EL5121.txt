@@ -1,0 +1,4 @@
+Object Oriented Programming
+Ini adalah isi file dari EL5121.txt
+-----------------------------------
+Nostalgila...

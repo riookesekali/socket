@@ -1,0 +1,4 @@
+Service Oriented Architecture
+Ini adalah isi file dari EL5117.txt
+-----------------------------------
+SOAk

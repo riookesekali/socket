@@ -1,0 +1,5 @@
+E:\Rio\ITB\Semester 1\Object Oriented Programming\Tugas\02 Socket Programming\BodolClient\bin\Debug\BodolClient.exe
+E:\Rio\ITB\Semester 1\Object Oriented Programming\Tugas\02 Socket Programming\BodolClient\bin\Debug\BodolClient.pdb
+E:\Rio\ITB\Semester 1\Object Oriented Programming\Tugas\02 Socket Programming\BodolClient\obj\Debug\BodolClient.exe
+E:\Rio\ITB\Semester 1\Object Oriented Programming\Tugas\02 Socket Programming\BodolClient\obj\Debug\BodolClient.pdb
+E:\Rio\ITB\Semester 1\Object Oriented Programming\Tugas\02 Socket Programming\BodolClient\obj\Debug\BodolClient.csprojResolveAssemblyReference.cache
